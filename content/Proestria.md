@@ -1,0 +1,1 @@
+Proestria, o la Battaglia di Proelium Campestria ("Altopiano di battaglia") è lo scontro avvenuto nell'anno 0 [[P.P]] che segna la fine del [[Belludium]] e da il nome alla [[Piazza Libertoria]] costruita in memoria della vittoria [[Umano|umana]].

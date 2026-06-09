@@ -1,0 +1,2 @@
+Voxerrum è una città [[Umano|umana]] e la capitale politica del [[Continente Centrale]] che da nome alla regione che la contiene.
+Posizionata al centro del continente, Voxerrum funge da centro amministrativo e burocratico dove vengono finalizzate le scelte legislative ed esecutive che impattano la maggioranza delle regioni del [[Totus]]

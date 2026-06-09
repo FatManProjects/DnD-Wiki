@@ -1,0 +1,1 @@
+Il nano è una delle [[Razze|razze]] che popolano il [[Totus]].

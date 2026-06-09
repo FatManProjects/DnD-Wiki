@@ -1,0 +1,2 @@
+L'armistizio Medium è l'accordo firmato nell'anno 0 [[P.P]] dopo la resa [[Orco|orchesca]] alla battaglia di [[Proestria]]. Quest'ultima segna la fine del [[Belludium]] e di conseguenza la vittoria umana.
+L'armistizio dettava l'annessione di vari territori precedentemente appartenuti al regno di [[Dunarchipel]] alle regioni vincitrici. Inoltre l'accordo includeva la cessione totale del potere amministrativo e giudiziario sulla maggioranza del [[Continente Centrale]] alla città di [[Voxerrum]], rendendola la capitale burocratica del continente.

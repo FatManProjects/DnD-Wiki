@@ -1,0 +1,1 @@
+L'umano è una delle [[Razze|razze]] che popolano il [[Totus]].

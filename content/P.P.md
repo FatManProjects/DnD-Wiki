@@ -1,0 +1,1 @@
+P.P, acronimo per "Post-Proestria" è il sistema di datazione standard usato nel Totus. Presenta come punto di riferimento la fine del [[Belludium]], quindi l'[[Armistizio Medium]].

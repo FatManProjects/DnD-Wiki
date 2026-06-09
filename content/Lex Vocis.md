@@ -1,0 +1,1 @@
+La Lex Vocis è la legge fondamentale più diffusa nel [[Totus]] e funge da fondamento giuridico per le regioni comprese nell'Unione. Si tratta di una costituzione rigida istituita per voto tramite sistema democratico nell'anno 5 [[P.P]]

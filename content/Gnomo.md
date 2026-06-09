@@ -1,0 +1,1 @@
+Lo gnomo è una delle [[Razze|razze]] che popolano il [[Totus]].

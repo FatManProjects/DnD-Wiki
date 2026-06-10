@@ -29,4 +29,3 @@ Gli effetti della segregazione dei Mezzorchi sono ancora percettibili ai giorni 
 Viene qui riportata la mappa comune del Totus, che comprende maggioranza delle caratteristiche geografiche e la divisione fra regioni (indicandone i nomi).
 
 ![[The world Map.webp]]
-

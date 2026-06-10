@@ -1,5 +1,5 @@
 ---
-title: 🧭 DnD Wiki
+title: DnD Wiki
 ---
-Benvenuti alla wiki, potete navigare i vari articoli con il menù a sinistra.
-O potete iniziare da [[Totus]].
+
+Benvenuti alla Wiki, potete navigare gli articoli con il menù alla vostra sinistra o potete iniziare da [[Totus]].

@@ -15,7 +15,7 @@ Il Totus è il collettivo di tutte le regioni conosciute nel mondo. Queste sono 
 | [[Balad Akadina]] | [[Akadina]]    | [[Elfo\|Elfi]]              |
 | [[Glantivis]]     |                | [[Mezzorco\|Mezzorchi]]     |
 | [[Amiglacis]]     |                | [[Mezzelfo\|Mezzelfi]]      |
-| [[Ghabashur]]     |                | [[Mezzelfo\|Mezzelfi]]      |
+| [[Ghabashur]]     |                | [[Elfo\|Elfi]]              |
 | [[Raisenub]]      | Raisenub       | N/A                         |
 | [[Saharid]]       |                | N/A                         |
 | [[Kharteus]]      | Kharteus       | [[Orco\|Orchi]]             |

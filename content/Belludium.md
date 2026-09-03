@@ -10,4 +10,5 @@ Le battaglie del Belludium si combatterono su gran parte del Totus date le allea
 | Umani     | Orchi     |
 | Elfi      | Dragonidi |
 | Gnomi     | Nani      |
+
 Il conflitto terminò con l'[[Armistizio Medium]] dopo la resa orchesca alla battaglia di [[Proestria]] nell'anno 0 P.P (Post-Proestria quindi).

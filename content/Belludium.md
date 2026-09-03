@@ -1,5 +1,5 @@
 ### Introduzione
-Il Belludium (o "Guerra del Mezzo") è il più noto conflitto avvenuto nella storia del [[Totus]]. Esso vide contrapporsi due forze principali: gli [[Umano|umani]] e gli [[Orco|orchi]], ognuna con alleanze con le altre popolazioni. La guerra si svolse tra l'anno -150 D.G e ovviamente lo 0 D.G (dato il punto di riferimento del sistema [[P.P]]).
+Il Belludium (o "Guerra del Mezzo") è il più noto conflitto avvenuto nella storia del [[Totus]]. Esso vide contrapporsi due forze principali: gli [[Umano|umani]] e gli [[Orco|orchi]], ognuna con alleanze con le altre popolazioni. La guerra si svolse tra l'anno -150 P.P e ovviamente lo 0 P.P (dato il punto di riferimento del sistema [[P.P]]).
 
 ### Svolgimento
 Il conflitto ebbe inizio con l'imboscata dalla forza orchesca di [[Dunarchipel]] sui territori di [[West-Erz]], costringendo gli gnomi a richiedere assistenza militare. Questa mossa istigò immediatamente gli umani a dichiarare guerra alla fazione nemica.
